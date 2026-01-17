@@ -19,4 +19,4 @@ Personal blog by Meysam.
 
 ## Live
 
-https://mnasimi.github.io/my-blog/
+https://meysam-n.github.io/my-blog/

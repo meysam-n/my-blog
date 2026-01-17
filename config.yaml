@@ -1,4 +1,4 @@
-baseurl: https://mnasimi.github.io/my-blog/
+baseurl: https://meysam-n.github.io/my-blog/
 languageCode: en-us
 title: My Tech Blog
 theme: hugo-theme-stack
@@ -102,7 +102,7 @@ menu:
   social:
     - identifier: github
       name: GitHub
-      url: https://github.com/mnasimi
+      url: https://github.com/meysam-n
       params:
         icon: brand-github
 
