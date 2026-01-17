@@ -1,21 +1,34 @@
-# Hugo
-public/
-resources/_gen/
-.hugo_build.lock
+# Bundler cache
+.bundle
+vendor
+Gemfile.lock
 
-# IDE
-.idea/
-.vscode/
-*.swp
-*.swo
+# Jekyll cache
+.jekyll-cache
+.jekyll-metadata
+_site
 
-# OS
-.DS_Store
-Thumbs.db
+# RubyGems
+*.gem
 
-# Node (if using npm for assets)
-node_modules/
+# NPM dependencies
+node_modules
+package-lock.json
+
+# IDE configurations
+.idea
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/tasks.json
+
+# Misc
+_sass/vendors
+assets/js/dist
 
 # Claude
 .claude/
 CLAUDE.md
+
+# OS
+.DS_Store

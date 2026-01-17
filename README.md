@@ -1,4 +1,4 @@
-# My Tech Blog
+# Meysam's Tech Blog
 
 Personal blog by Meysam.
 
@@ -13,8 +13,8 @@ Personal blog by Meysam.
 
 ## Built With
 
-- [Hugo](https://gohugo.io/) - Static site generator
-- [Stack Theme](https://github.com/CaiJimmy/hugo-theme-stack) - Hugo theme
+- [Jekyll](https://jekyllrb.com/) - Static site generator
+- [Chirpy Theme](https://github.com/cotes2020/jekyll-theme-chirpy) - Jekyll theme
 - [GitHub Pages](https://pages.github.com/) - Hosting
 
 ## Live
